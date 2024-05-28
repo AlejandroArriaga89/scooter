@@ -1,6 +1,8 @@
 {
+  "/(general)/scooter/[id]/page": "app/(general)/scooter/[id]/page.js",
   "/(general)/carro/page": "app/(general)/carro/page.js",
-  "/(general)/scooter/page": "app/(general)/scooter/page.js",
   "/(general)/cart/page": "app/(general)/cart/page.js",
-  "/(general)/scooter/[id]/page": "app/(general)/scooter/[id]/page.js"
+  "/(general)/checkout/page": "app/(general)/checkout/page.js",
+  "/(general)/page": "app/(general)/page.js",
+  "/(general)/scooter/page": "app/(general)/scooter/page.js"
 }
